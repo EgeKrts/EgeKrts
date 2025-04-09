@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ege</h1>
-<h3 align="center">I'm a Full-Stack Developer</h3>
+<h3 align="center">I'm a Software Engineer</h3>
 
 <img src="https://img.wonderhowto.com/img/39/82/63583365687619/0/hacks-mr-robot-elliot-fsociety-destroyed-evil-corps-data.1280x600.jpg" />
 
